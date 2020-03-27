@@ -1,2 +1,2 @@
 # hello-world
-primera práctica
+Primera práctica
